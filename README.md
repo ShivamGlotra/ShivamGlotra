@@ -3,8 +3,13 @@
 🎓 **Computer Science Student**
 
 💻 **Languages & Skills:**  
-- Java, Python, C   
+- Java, Python, C, TypeScript, JavaScript, React and node.js express 
 - Algorithms & Problem Solving
+
+💼 **Work Experience:**  
+- **Junior Software Developer**
+  Contributed to the backend and the front end to create a Full Stack Web based application using TypeScript, JavaScript, React and node.js express.
+  Built backend APIs to handle requests from the front and make a call to the Firebase database to return the approriate response to the request while also validating the request
 
 🛠️ **Projects:**  
 - **Bank Management App:**  
@@ -19,7 +24,7 @@
 🌱 **Currently Learning:**  
 - Game development fundamentals
 - Modern app development frameworks
-- Learning C# and C++ to create apps and also database management to connect with the   apps
+- Learning C# and C++ to create apps and also database management to connect with the apps
 
 📫 **Let's Connect!**  
 Feel free to reach out for collaboration, learning, or just a friendly chat about programming and games!
