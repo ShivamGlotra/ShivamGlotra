@@ -3,7 +3,7 @@
 🎓 **Computer Science Student**
 
 💻 **Languages & Skills:**  
-- Java, Python, C, TypeScript, JavaScript, React and node.js express 
+- flutter, Dart, TypeScript, JavaScript, React, nextjs, React Native Expo and node.js express, Java, Python, C
 - Algorithms & Problem Solving
 
 💼 **Work Experience:**  
