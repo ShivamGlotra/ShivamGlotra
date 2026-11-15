@@ -1,6 +1,7 @@
 # Hi there, I'm Shivam Glotra! 👋
 
-🎓 **Computer Science student at York University (Expected 2027)** · 💻 **Frontend-focused Software Engineer** with internship and contract experience in full-stack web and mobile development · 
+🎓 **Computer Science student at York University (Expected 2027)** · 💻 **Frontend-focused Software Engineer** with internship and contract experience in full-stack web and mobile development
+
 📍 Toronto, ON
 
 🔗 [Portfolio](https://glotras.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shivam-glotra-86a62318b/)
